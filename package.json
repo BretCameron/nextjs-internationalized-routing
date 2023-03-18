@@ -1,7 +1,10 @@
 {
   "name": "nextjs-internationalized-routing",
+  "description": "An example project containing various strategies for toggling routes on and off for specific locales.",
   "version": "0.1.0",
-  "private": true,
+  "author": { "name": "Bret Cameron" },
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
